@@ -9,7 +9,7 @@ And other smaller courses in different subjects. I'm looking for an oppporunity 
 I learned and to learn more alongside with experienced developers.
 
 
-Skills: Nodejs, Express, React, MongoDb, Graphql.
+Skills: Nodejs, Express, React, Redux, MongoDb, Graphql.
 
 [![Thiago Vasques's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorvasques&theme=dark&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
